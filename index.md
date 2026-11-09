@@ -15,8 +15,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Tuesdays with Morrie](ebook/Tuesdays%20with%20Morrie.pdf) - Mitch Albom (1997)
 12. [Ringkasan Materi UGC](ebook/Ringkasan%20Materi%20UGC.pdf) - Sila Lituhayu (2026)
     
-# Sila Lituhayu
-#(13040124140140)
-# D
+Sila Lituhayu
+(13040124140140)
+D
 
 *Powered by GitHub Pages*
