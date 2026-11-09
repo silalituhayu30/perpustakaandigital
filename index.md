@@ -13,6 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Sebuah Seni untuk Bersikap Bodo Amat](ebook/Sebuah%20Seni%20untuk%20Bersikap%20Bodo%20Amat) - Mark Manson (2016)
 10. [The Midnight Library](ebook/The%20Midnight%20Library) - Matt Haig (2020)
 11. [Tuesdays with Morrie](ebook/Tuesdays%20with%20Morrie) - Mitch Albom (1997)
-12. [Ringkasan Materi UGC](ebook/Ringkasan%20Materi%20UC) - Sila Lituhayu
+12. [Ringkasan Materi UGC](ebook/Ringkasan%20Materi%20UC) - Sila Lituhayu (2026)
 ---
 *Powered by GitHub Pages*
