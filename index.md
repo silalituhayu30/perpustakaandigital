@@ -16,7 +16,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 12. [Ringkasan Materi UGC](ebook/Ringkasan%20Materi%20UC.pdf) - Sila Lituhayu (2026)
     
 Sila Lituhayu
-(13040124140157)
+(13040124140140)
 D
 
 *Powered by GitHub Pages*
